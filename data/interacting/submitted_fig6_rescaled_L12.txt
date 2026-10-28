@@ -1,0 +1,3 @@
+L=12 h=0.2 delta=0.0000 rescaled: 0.70682
+L=12 h=0.0 delta=0.8000 rescaled: 0.70426
+L=12 h=0.0 delta=0.4444 rescaled: 0.90587
